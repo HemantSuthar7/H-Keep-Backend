@@ -1,10 +1,10 @@
 import { app } from "./app.js"
 import connectDB from "./DB/index.js"
-import dotenv from 'dotenv';
+// import dotenv from 'dotenv';
 
 
 
-dotenv.config();
+// dotenv.config();
 
 
 
